@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/typesense/typesense-python/commit/8727d2ba58c0024f6a7dcf0957ddaff354df62be",
       "git:hexsha": "8727d2ba58c0024f6a7dcf0957ddaff354df62be",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.1.0",
+      "repolex:parsedAt": "2026-10-17T21:50:08.751390+00:00"
     },
     {
       "@id": "https://repolex.ai/r/typesense/typesense-python/commit/65939f71118085083760c5430ec686631a63dd70",
