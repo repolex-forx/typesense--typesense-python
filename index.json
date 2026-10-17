@@ -1,0 +1,11 @@
+{
+  "org": "typesense",
+  "repo": "typesense-python",
+  "versions": [
+    {
+      "commit": "8727d2ba58c0024f6a7dcf0957ddaff354df62be",
+      "tag": "v2.1.0",
+      "parsed_at": "2026-10-17T21:50:08.834068+00:00"
+    }
+  ]
+}
